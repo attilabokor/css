@@ -1,0 +1,35 @@
+@import "heading.css";
+@import "paragraph.css";
+
+* {font-family: "Arial Black" Gadget, sans-serif;}
+
+div * {font-family: "Comic Sans MS", cursive, sans-serif;}
+
+body { background-color: lightgrey; }
+
+p {
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+}
+
+
+#zen-intro {font-family: "Times New Roman";}
+
+#zen-summary
+
+
+#zen-preamble
+
+#design-selection
+
+
+abbr[title] {
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration: underline dotted
+}
+
+
+ul {font-family: "Arial";}
